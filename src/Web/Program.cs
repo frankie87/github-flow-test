@@ -16,7 +16,7 @@ namespace Web
         {
             CreateWebHostBuilder(args).Build().Run();
         }
-
+        //Mattias comment
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
