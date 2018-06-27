@@ -3,6 +3,12 @@ for details on configuring this project to bundle and minify static web assets. 
 body {
     padding-top: 50px;
     padding-bottom: 20px;
+    font-family: 'Pacifico', sans-serif;
+    background-color: #ddfff4;
+}
+
+nav {
+    background-color: #ffc889 !important;
 }
 
 /* Wrapping element */
